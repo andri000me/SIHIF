@@ -1,0 +1,33 @@
+#wrap-content{
+    margin-top: 80px;
+}
+
+#card-content{
+    border: 2px solid #e74c3c;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #fff;
+}
+
+#card-content hr{
+    margin: 5px;
+}
+
+.btn-fixed{
+    position: fixed;
+    padding: 10px;
+}
+
+#wrap-informasi{
+    font-size: 85%;
+}
+
+#wrap-komentar{
+    font-size: 80%;
+}
+
+#wrap-komentar #komentar{
+    background-color: #E5E5E5;
+}

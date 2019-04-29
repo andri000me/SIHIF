@@ -1,0 +1,13 @@
+footer{
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background-color: #e74c3c;
+    color: #fff;
+    height: 50px;
+    font-size: 18px;
+    font-weight: 400px;
+}
+
+.footer-content{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

@@ -1,0 +1,20 @@
+.wrapper{
+	margin-top: 120px;
+	color: #fff;
+}
+.part-left{
+	font-family: arial;
+}
+.part-left img{
+	height: 150px;
+}
+.part-left h1{
+	font-size: 25px;
+	font-weight: bold;
+}
+.part-right h2{
+	font-weight: bold;
+}
+.part-right .login-field{
+	margin-bottom: 10px;
+}
